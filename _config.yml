@@ -4,8 +4,8 @@
 ####################################
 #
 title: Gabriela Iwama.
-email: .
-description: .
+email: gabrielaiwama@gmail.com
+description: #
 url: # the base hostname & protocol for your site
 keywords: ["blog", "jekyll"]
 
@@ -33,13 +33,13 @@ kramdown:
 ####################################
 #
 owner:
-  name: G
-  avatar: leonids-logo.png
-  job: vvv
-  bio: vvv
+  name: Gabriela Iwama
+  avatar: 
+  job: Psychology Student
+  bio: 
   email:
   disqus-shortname:
-  twitter: #username
+  twitter: gabrielaiwama
   facebook: #username
   google:
     plus: #username
@@ -48,7 +48,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: GabrielaIwama
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
