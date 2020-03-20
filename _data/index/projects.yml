@@ -1,4 +1,9 @@
 - name: Belief Bias in Syllogistic Reasoning
   descr: The aim of this project is to investigate individual differences in cognitive style in the perfomance of syllogisms with belief bias.
+  image: BeliefBias2.png
+  github:
+
+- name: Chatbot to promote mental health
+  descr: The aim of this project is to develop a chatbot to identify psychological and psychiatric risk groups among students at the University of Brasilia.
   image: pong.png
-  github: https://github.com/renyuanz/leonids
+  github:
