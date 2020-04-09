@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Próxima parada: Tübingen"
-excerpt: 
+excerpt: "Agora é real oficial, passei!"
 modified: 2020-04-09
 tags: 
 comments: true
@@ -11,7 +11,7 @@ image:
 ---
 # Próxima parada: Tübingen
 
-Tenho uma notícia muito legal: fui aceita para fazer mestrado e doutorado na Alemanha! Quando estive lá como estagiária, pude ter a experiência maravilhosa de ter uma equipe super diversa, um orientador que te motiva a se desenvolver e um instituto que dá as condições físicas e financeiras para você fazer pesquisa de qualidade com a maior eficiência possível. Fiz muitos planos de voltar e ainda não sei como tudo vai ser com essa pandemia, mas já fiz a maior parte do que estava sobre meu controle.
+Quando estive lá como estagiária, pude ter a experiência maravilhosa de ter uma equipe super diversa, um orientador que te motiva a se desenvolver e um instituto que dá as condições físicas e financeiras para você fazer pesquisa de qualidade com a maior eficiência possível. Fiz muitos planos de voltar e ainda não sei como tudo vai ser com essa pandemia, mas já fiz a maior parte do que estava sobre meu controle.
 
 Antes da nossa atual situação política, eu já pensava em ir para fora, mas não fazia questão. Nos últimos anos, entretanto, ficou claro que se eu quisesse ter certeza de ter uma bolsa de estudos e me dedicar exclusivamente para a ciência, eu deveria ir para países cujo incentivo à pesquisa é considerada essencial. Sacrifiquei muitas horas de sono e lazer para estudar para as provas do GRE, a prova de conhecimentos específicos, procurando possíveis orientadores, escrevendo cartas de motivação, pedindo cartas de recomendação (obrigada, Luciano, Falk e Sebastién), guardando dinheiro para pagar as aplicações, fazendo auto-terapia para poder falar bem de mim mesma e não desistir de tudo isso.
 
