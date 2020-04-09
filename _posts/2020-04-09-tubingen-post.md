@@ -18,9 +18,3 @@ Antes da nossa atual situação política, eu já pensava em ir para fora, mas n
 Apesar de tudo, sei que sou muito privilegiada de ter essa escolha e ter tanto tempo assim para me dedicar a tudo isso. Sei que essa não é a realidade de muitos. Mas também consegui muita coisa por medidas governamentais, ganhei bolsas de iniciação científica (obrigada, Juliana), ganhei bolsas do governo canadense (obrigada, Mitacs), ganhei bolsas de pesquisa do CDT (obrigada, Rejane). Ainda ganhei muito apoio e paitrocínio (obrigada, mãe e pai) para vir morar numa das cidades mais caras do Brasil e poder me sustentar antes de conseguir ganhar as bolsas. Ganhei também muito apoio moral e muito apoio administrativo (obrigada, Cris). Ganhei também conselhos pessoais sobre como escrever e-mails, como se comportar em uma entrevista, o que esperar de um doutorado fora (obrigada, Rafa), e muito apoio moral (obrigada, Víthor, Rai, Ju, Marcos).
 
 Sou muito privilegiada de ter todo esse apoio e gostaria de retribuir para os futuros aspirantes da carreira acadêmica, seja no Brasil ou internacionalmente. Nesse tempo de coronavírus, estamos vendo como a ciência é importante para tomar decisões e salvar vidas, mas também que não precisamos estar em um país específico para fazer ciência. Entretanto, investimento em ciência é fundamental para promover a adesão à carreira acadêmica. Portanto, aspirantes da carreira acadêmica, estou à disposição para ajudar nesse processo de tortura da seleção de doutorado com bolsa de pesquisa.
-
-
-![Alemanha]({{ site.url }}/img/polaroid.jpg)
-{: .pull-right}
-
-
