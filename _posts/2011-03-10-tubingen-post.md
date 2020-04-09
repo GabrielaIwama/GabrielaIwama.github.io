@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Próxima parada: Tübingen"
-excerpt: "Próxima parada: Tübingen"
+excerpt: 
 modified: 2020-04-09
 tags: 
 comments: true
