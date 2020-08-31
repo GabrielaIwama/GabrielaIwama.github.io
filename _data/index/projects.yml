@@ -1,3 +1,8 @@
+- name: Toward a formal theory of proactivity
+  descr: This project aims to develop and test formal theories of proactivity to understand not only why some people are more proactive than others, but also to understand why humans are proactive at all.
+  image: 
+  github:
+
 - name: Belief Bias in Syllogistic Reasoning
   descr: The aim of this project is to investigate individual differences in cognitive style in the perfomance of syllogisms with belief bias.
   image: BeliefBias2.png
