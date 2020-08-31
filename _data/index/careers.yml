@@ -1,20 +1,19 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name: Information Technology – Research and Application Center (ITRAC)
-  link: http://www.itrac.unb.br/
-  date: 2018 - 2020
-  job: Researcher. Development and evaluation of measures for quality evaluation of digital public services.
+- name: Max Planck Institute for Intelligent Systems
+  link: https://re.is.tuebingen.mpg.de
+  date: 2019 - current
+  job: Intern. Computational modelling of Proactivity; Development of cognitive growth and rationality measures.
 
 - name: IEEE Computer Society
   link: http://www.computer.org/
   date: 2018 - current
   job: Volunteer. Development of a chatbot to identify psychological and psychiatric risk groups among students at the University of Brasilia.
 
-- name: Max Planck Institute for Intelligent Systems
-  link: https://re.is.tuebingen.mpg.de
-  date: 2019
-  job: Intern. Development of cognitive growth and rationality measures.
-
+- name: Information Technology – Research and Application Center (ITRAC)
+  link: http://www.itrac.unb.br/
+  date: 2018 - 2020
+  job: Researcher. Development and evaluation of measures for quality evaluation of digital public services.
 
 - name: University of Montréal
   link: https://www.umontreal.ca
